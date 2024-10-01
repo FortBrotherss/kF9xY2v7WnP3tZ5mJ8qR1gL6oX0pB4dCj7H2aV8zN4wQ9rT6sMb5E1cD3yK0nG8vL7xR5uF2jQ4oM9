@@ -1,4 +1,3 @@
-eggwick:Spoofer:UM4uOkVvLSNF:2024-10-01:78.167.2.31:non-used:2024-10-02
 eggwick:Spoofer:PG0emT3JWl4r:2024-10-01:78.167.2.31:non-used:2024-10-02
 eggwick:Spoofer:P9UXZh4YNaQo:2024-10-01:78.167.2.31:non-used:2024-10-02
 eggwick:Spoofer:jdtmsqRUwtki:2024-10-01:78.167.2.31:non-used:2024-10-02
